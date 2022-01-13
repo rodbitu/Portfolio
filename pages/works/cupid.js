@@ -12,8 +12,8 @@ const Work = () => {
           Cupid Online <Badge>2021</Badge>
         </Title>
         <P>
-          What is live chat support? Live chat support allows customers to have
-          text-based conversations with support teams via the web.
+          Cupid Online is a web application that the user sends a message of
+          love to someone via email.
         </P>
         <List ml={4} my={4}>
           <ListItem>

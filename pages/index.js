@@ -147,7 +147,7 @@ const Page = () => {
             </ListItem>
             <ListItem>
               <Link
-                href="https://www.linkedin.com/in/rodrigo-bitu-de-moraes-366037191"
+                href="https://mail.google.com/mail/u/0/#inbox"
                 target="_blank"
               >
                 <Button
