@@ -29,7 +29,7 @@ const Page = () => {
           mb={6}
           align="center"
         >
-          Hello, I&apos;m a full-stack developer based in Brazil!
+          Hello, I&apos;m a back-end developer based in Brazil!
         </Box>
 
         <Box display={{ md: 'flex' }}>
@@ -38,7 +38,7 @@ const Page = () => {
               Rodrigo Bitu
             </Heading>
 
-            <p>Full-Stack Developer ( Engineer / Developer / DevOps )</p>
+            <p>Back-End Developer ( Engineer / Developer / DevOps )</p>
           </Box>
           <Box
             flexShrink={0}
@@ -63,7 +63,7 @@ const Page = () => {
             Work
           </Heading>
           <Paragraph>
-            Rodrigo is a full-stack developer based in Belém(PA) with a passion
+            Rodrigo is a back-end developer based in Belém(PA) with a passion
             for building digital services/stuff he wants. He has a knack for
             solving real-life problems with code. When not online, he loves
             hanging out with his friends. He is currently an intern at a
