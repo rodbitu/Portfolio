@@ -5,6 +5,7 @@ import Layout from '../components/layouts/article'
 
 import thumbChatty from '../public/images/works/chatty_eyecatch.png'
 import thumbCupid from '../public/images/works/cupid_eyecatch.png'
+import thumbValoriza from '../public/images/works/valoriza_eyecatch.png'
 
 const Works = () => {
   return (
@@ -28,6 +29,15 @@ const Works = () => {
             >
               Cupid Online is a web application that the user sends a message of
               love to someone via email.
+            </WorkGridItem>
+          </Section>
+          <Section>
+            <WorkGridItem
+              id="valoriza"
+              title="Valoriza"
+              thumbnail={thumbValoriza}
+            >
+              Valoriza is a platform to promote recognition among teammates.
             </WorkGridItem>
           </Section>
         </SimpleGrid>
