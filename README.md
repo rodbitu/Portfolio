@@ -1,6 +1,6 @@
 # Rodrigo's Portfolio
 
-[https://www.rodrigobitu.dev/](https://rodrigobitu.vercel.app/)
+[https://rodrigobitu.vercel.app/](https://rodrigobitu.vercel.app/)
 
 ## Stack
 
