@@ -6,6 +6,7 @@ import Layout from '../components/layouts/article'
 import thumbChatty from '../public/images/works/chatty_eyecatch.png'
 import thumbCupid from '../public/images/works/cupid_eyecatch.png'
 import thumbValoriza from '../public/images/works/valoriza_eyecatch.png'
+import thumbBinanceBot from '../public/images/works/binance_bot_eyecatch.png'
 
 const Works = () => {
   return (
@@ -38,6 +39,16 @@ const Works = () => {
               thumbnail={thumbValoriza}
             >
               Valoriza is a platform to promote recognition among teammates.
+            </WorkGridItem>
+          </Section>
+          <Section>
+            <WorkGridItem
+              id="binanceBot"
+              title="binanceBot"
+              thumbnail={thumbBinanceBot}
+            >
+              BinanceBot is a bot created with the aim of automating operations
+              on the Binance exchange.
             </WorkGridItem>
           </Section>
         </SimpleGrid>
