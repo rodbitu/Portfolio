@@ -66,8 +66,8 @@ const Page = () => {
             Rodrigo is a back-end developer based in Belém(PA) with a passion
             for building digital services/stuff he wants. He has a knack for
             solving real-life problems with code. When not online, he loves
-            hanging out with his friends. He is currently an intern at a
-            technology solutions company called{' '}
+            hanging out with his friends. He is currently hired as a Back-End
+            Developer at a technology solutions company called{' '}
             <Link href="https://www.enacom.com.br/">Enacom</Link>.
           </Paragraph>
           <Box align="center" my={4}>
