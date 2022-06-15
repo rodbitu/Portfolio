@@ -26,11 +26,11 @@ const Works = () => {
           <Section>
             <WorkGridItem
               id="cupid"
-              title="Cupid Online"
+              title="Cupido Online"
               thumbnail={thumbCupid}
             >
-              Cupid Online is a web application that the user sends a message of
-              love to someone via email.
+              Cupido Online is a web application that the user sends a message
+              of love to someone via email.
             </WorkGridItem>
           </Section>
           <Section>

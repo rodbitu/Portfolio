@@ -6,13 +6,13 @@ import Layout from '../../components/layouts/article'
 
 const Work = () => {
   return (
-    <Layout title="Cupid Online">
+    <Layout title="Cupido Online">
       <Container>
         <Title>
-          Cupid Online <Badge>2021</Badge>
+          Cupido Online <Badge>2021</Badge>
         </Title>
         <P>
-          Cupid Online is a web application that the user sends a message of
+          Cupido Online is a web application that the user sends a message of
           love to someone via email.
         </P>
         <List ml={4} my={4}>
