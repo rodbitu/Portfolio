@@ -7,6 +7,7 @@ import thumbChatty from '../public/images/works/chatty_eyecatch.png'
 import thumbCupid from '../public/images/works/cupid_eyecatch.png'
 import thumbValoriza from '../public/images/works/valoriza_eyecatch.png'
 import thumbBinanceBot from '../public/images/works/binance_bot_eyecatch.png'
+import thumbValkyrie from '../public/images/works/valkyrie_eyecatch.png'
 
 const Works = () => {
   return (
@@ -49,6 +50,16 @@ const Works = () => {
             >
               BinanceBot is a bot created with the aim of automating operations
               on the Binance exchange.
+            </WorkGridItem>
+          </Section>
+          <Section>
+            <WorkGridItem
+              id="valkyrie"
+              title="valkyrie"
+              thumbnail={thumbValkyrie}
+            >
+              Valkyrie is software to analyze and calculate the native
+              vegetation area of a given terrain using python processing.
             </WorkGridItem>
           </Section>
         </SimpleGrid>
