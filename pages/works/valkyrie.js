@@ -32,12 +32,19 @@ const Work = () => {
             </Link>
           </ListItem>
           <ListItem>
+            <Meta>Source - Processing</Meta>
+            <Link href="https://github.com/TubaroesVoadores/valkyrie-processing">
+              https://github.com/TubaroesVoadores/valkyrie-processing
+              <ExternalLinkIcon mx="2px" />
+            </Link>
+          </ListItem>
+          <ListItem>
             <Meta>Platform</Meta>
             <span>Windows/macOS/Linux</span>
           </ListItem>
           <ListItem>
             <Meta>Stack</Meta>
-            <span>Serverless, NodeJS, AWS-CLI</span>
+            <span>ReactJS, NodeJS, Python, Serverless, AWS-CLI</span>
           </ListItem>
         </List>
 
