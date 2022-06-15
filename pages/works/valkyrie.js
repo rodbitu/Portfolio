@@ -42,6 +42,7 @@ const Work = () => {
         </List>
 
         <WorkImage src="/images/works/valkyrie_01.png" alt="Valkyrie" />
+        <WorkImage src="/images/works/valkyrie_02.png" alt="Valkyrie" />
       </Container>
     </Layout>
   )
