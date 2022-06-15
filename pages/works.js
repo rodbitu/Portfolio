@@ -45,7 +45,7 @@ const Works = () => {
           <Section>
             <WorkGridItem
               id="binanceBot"
-              title="binanceBot"
+              title="BinanceBot"
               thumbnail={thumbBinanceBot}
             >
               BinanceBot is a bot created with the aim of automating operations
@@ -55,7 +55,7 @@ const Works = () => {
           <Section>
             <WorkGridItem
               id="valkyrie"
-              title="valkyrie"
+              title="Valkyrie"
               thumbnail={thumbValkyrie}
             >
               Valkyrie is software to analyze and calculate the native
