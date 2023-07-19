@@ -155,7 +155,7 @@ const Page = () => {
                   colorScheme="teal"
                   leftIcon={<Icon as={IoLogoGoogle} />}
                 >
-                  digomoraes0@gmail.com
+                  rodrigomoraes.dev@gmail.com
                 </Button>
               </Link>
             </ListItem>
