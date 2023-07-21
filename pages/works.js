@@ -8,6 +8,7 @@ import thumbCupid from '../public/images/works/cupid_eyecatch.png'
 import thumbValoriza from '../public/images/works/valoriza_eyecatch.png'
 import thumbBinanceBot from '../public/images/works/binance_bot_eyecatch.png'
 import thumbValkyrie from '../public/images/works/valkyrie_eyecatch.png'
+import thumbTubeSummarizerAI from '../public/images/works/tubeSummarizerAi_eyecatch.png'
 
 const Works = () => {
   return (
@@ -60,6 +61,16 @@ const Works = () => {
             >
               Valkyrie is software to analyze and calculate the native
               vegetation area of a given terrain using python processing.
+            </WorkGridItem>
+          </Section>
+          <Section>
+            <WorkGridItem
+              id="tubeSummarizerAI"
+              title="TubeSummarizerAI"
+              thumbnail={thumbTubeSummarizerAI}
+            >
+              TubeSummarizerAI is an innovative online platform that has come to
+              revolutionize the way users get smart summaries of YouTube videos.
             </WorkGridItem>
           </Section>
         </SimpleGrid>
