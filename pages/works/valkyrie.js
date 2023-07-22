@@ -18,14 +18,14 @@ const Work = () => {
         </P>
         <List ml={4} my={4}>
           <ListItem>
-            <Meta>Source - Front-End</Meta>
+            <Meta>Source-Frontend</Meta>
             <Link href="https://github.com/TubaroesVoadores/valkyrie-frontend">
               https://github.com/TubaroesVoadores/valkyrie-frontend
               <ExternalLinkIcon mx="2px" />
             </Link>
           </ListItem>
           <ListItem>
-            <Meta>Source - Back-End</Meta>
+            <Meta>Source-Backend</Meta>
             <Link href="https://github.com/TubaroesVoadores/valkyrie-backend">
               https://github.com/TubaroesVoadores/valkyrie-backend
               <ExternalLinkIcon mx="2px" />

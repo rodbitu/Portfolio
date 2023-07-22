@@ -17,14 +17,14 @@ const Work = () => {
         </P>
         <List ml={4} my={4}>
           <ListItem>
-            <Meta>Source - Front-End</Meta>
+            <Meta>Source-Frontend</Meta>
             <Link href="https://github.com/rodbitu/CupidoOnline-Front-End">
               https://github.com/rodbitu/CupidoOnline-Front-End{' '}
               <ExternalLinkIcon mx="2px" />
             </Link>
           </ListItem>
           <ListItem>
-            <Meta>Source - Back-End</Meta>
+            <Meta>Source-Backend</Meta>
             <Link href="https://github.com/rodbitu/CupidoOnline-Back-End">
               https://github.com/rodbitu/CupidoOnline-Back-End{' '}
               <ExternalLinkIcon mx="2px" />
