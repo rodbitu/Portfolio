@@ -9,6 +9,8 @@ import thumbValoriza from '../public/images/works/valoriza_eyecatch.png'
 import thumbBinanceBot from '../public/images/works/binance_bot_eyecatch.png'
 import thumbValkyrie from '../public/images/works/valkyrie_eyecatch.png'
 import thumbTubeSummarizerAI from '../public/images/works/tubeSummarizerAi_eyecatch.png'
+import thumbLiveLib from '../public/images/works/liveLib_eyecatch.png'
+import thumbRepoHub from '../public/images/works/repoHub_eyecatch.png'
 
 const Works = () => {
   return (
@@ -71,6 +73,18 @@ const Works = () => {
             >
               TubeSummarizerAI is an innovative online platform that has come to
               revolutionize the way users get smart summaries of YouTube videos.
+            </WorkGridItem>
+          </Section>
+          <Section>
+            <WorkGridItem id="liveLib" title="LiveLib" thumbnail={thumbLiveLib}>
+              LiveLib is a Whatsapp-integrated chatbot for managing small and
+              medium-sized libraries.
+            </WorkGridItem>
+          </Section>
+          <Section>
+            <WorkGridItem id="repoHub" title="RepoHub" thumbnail={thumbRepoHub}>
+              RepoHub is an online platform that allows users to organize their
+              repositories quickly and easily.
             </WorkGridItem>
           </Section>
         </SimpleGrid>
