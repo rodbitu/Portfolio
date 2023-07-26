@@ -32,9 +32,7 @@ const Work = () => {
           </ListItem>
           <ListItem>
             <Meta>Stack</Meta>
-            <span>
-              Nestjs, Typescript, Prisma, TwillioAPI, WhatsappAPI, MongoDB
-            </span>
+            <span>Nestjs, Typescript, Prisma, Twillio, MongoDB</span>
           </ListItem>
         </List>
 
