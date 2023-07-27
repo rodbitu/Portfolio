@@ -16,7 +16,12 @@ import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import Paragraph from '../components/paragraph'
 import { BioSection, BioYear } from '../components/bio'
-import { IoLogoGithub, IoLogoLinkedin, IoLogoGoogle } from 'react-icons/io5'
+import {
+  IoLogoGithub,
+  IoLogoLinkedin,
+  IoLogoGoogle,
+  IoReaderSharp
+} from 'react-icons/io5'
 
 const Page = () => {
   return (
@@ -156,6 +161,20 @@ const Page = () => {
                   leftIcon={<Icon as={IoLogoGoogle} />}
                 >
                   rodrigomoraes.dev@gmail.com
+                </Button>
+              </Link>
+            </ListItem>
+            <ListItem>
+              <Link
+                href="https://drive.google.com/file/d/1Iam-ZIIjEvTsbJS7H8yAIqg3DdglJ1xC/view?usp=sharing"
+                target="_blank"
+              >
+                <Button
+                  variant="ghost"
+                  colorScheme="teal"
+                  leftIcon={<Icon as={IoReaderSharp} />}
+                >
+                  Curriculum
                 </Button>
               </Link>
             </ListItem>
