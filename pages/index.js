@@ -1,27 +1,27 @@
-import NextLink from 'next/link'
+import { ChevronRightIcon } from '@chakra-ui/icons'
 import {
+  Box,
   Button,
   Container,
-  Box,
   Heading,
+  Icon,
   Image,
   Link,
   List,
   ListItem,
-  Icon,
   useColorModeValue
 } from '@chakra-ui/react'
-import { ChevronRightIcon } from '@chakra-ui/icons'
-import Layout from '../components/layouts/article'
-import Section from '../components/section'
-import Paragraph from '../components/paragraph'
-import { BioSection, BioYear } from '../components/bio'
+import NextLink from 'next/link'
 import {
   IoLogoGithub,
-  IoLogoLinkedin,
   IoLogoGoogle,
+  IoLogoLinkedin,
   IoReaderSharp
 } from 'react-icons/io5'
+import { BioSection, BioYear } from '../components/bio'
+import Layout from '../components/layouts/article'
+import Paragraph from '../components/paragraph'
+import Section from '../components/section'
 
 const Page = () => {
   return (
@@ -94,12 +94,11 @@ const Page = () => {
           </BioSection>
           <BioSection>
             <BioYear>2020</BioYear>
-            Entered the world of Computer Engineering and programming (Entrou no
-            mundo da Engenharia de Computação e programação)
+            Entered the world of Computer Engineering and programming 
           </BioSection>
           <BioSection>
             <BioYear>2021</BioYear>
-            Worked at BGC Brasil (Trabalhou na BGC Brasil)
+            Worked at BGC Brasil
           </BioSection>
           <BioSection>
             <BioYear>2021 to present</BioYear>
