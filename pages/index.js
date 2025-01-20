@@ -165,7 +165,7 @@ const Page = () => {
             </ListItem>
             <ListItem>
               <Link
-                href="https://drive.google.com/file/d/1-PaeZOg6PAUHSsQhRe5-QahKcW0KtSbn/view?usp=sharing"
+                href="https://docs.google.com/document/d/1UhUI9MF2-Q5xozcxuOzWa_LsrLrK6IaFV_yCYnW610Q/edit?usp=sharing"
                 target="_blank"
               >
                 <Button
