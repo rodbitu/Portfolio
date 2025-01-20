@@ -43,7 +43,7 @@ const Page = () => {
               Rodrigo Bitu
             </Heading>
 
-            <p>Back-End Developer ( Engineer / Developer / DevOps )</p>
+            <p>Back-End Developer ( Developer / Engineer / DevOps )</p>
           </Box>
           <Box
             flexShrink={0}
@@ -68,11 +68,11 @@ const Page = () => {
             Work
           </Heading>
           <Paragraph>
-            Rodrigo is a back-end developer based in Belém(PA) with a passion
+            Rodrigo is a Software Engineer based in Belém(PA) with a passion
             for building digital services/stuff he wants. He has a knack for
             solving real-life problems with code. When not online, he loves
-            hanging out with his friends. He is currently hired as a Back-End
-            Developer at a technology solutions company called{' '}
+            hanging out with his friends. He is currently hired as a Software Engineer
+            at a technology solutions company called{' '}
             <Link href="https://www.enacom.com.br/">Enacom</Link>.
           </Paragraph>
           <Box align="center" my={4}>
