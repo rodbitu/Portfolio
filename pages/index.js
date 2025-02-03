@@ -34,7 +34,7 @@ const Page = () => {
           mb={6}
           align="center"
         >
-          Hello, I&apos;m a back-end developer based in Brazil!
+          Hello, I&apos;m a DevOps Engineer based in Brazil!
         </Box>
 
         <Box display={{ md: 'flex' }}>
