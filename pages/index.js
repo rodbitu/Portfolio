@@ -43,7 +43,7 @@ const Page = () => {
               Rodrigo Bitu
             </Heading>
 
-            <p>Back-End Developer ( Developer / Engineer / DevOps )</p>
+            <p>DevOps Engineer ( DevOps / DevSecOps / Developer )</p>
           </Box>
           <Box
             flexShrink={0}
@@ -68,12 +68,10 @@ const Page = () => {
             Work
           </Heading>
           <Paragraph>
-            Rodrigo is a Software Engineer based in Belém(PA) with a passion
+            Rodrigo is a DevOps Engineer based in Belém(PA) with a passion
             for building digital services/stuff he wants. He has a knack for
             solving real-life problems with code. When not online, he loves
-            hanging out with his friends. He is currently hired as a Software Engineer
-            at a technology solutions company called{' '}
-            <Link href="https://www.enacom.com.br/">Enacom</Link>.
+            hanging out with his friends.
           </Paragraph>
           <Box align="center" my={4}>
             <NextLink href="/works">
@@ -101,8 +99,12 @@ const Page = () => {
             Worked at BGC Brasil
           </BioSection>
           <BioSection>
-            <BioYear>2021 to present</BioYear>
-            Works at Enacom as a Back-End Developer
+            <BioYear>2021</BioYear>
+            Worked at Enacom as a Software Engineer
+          </BioSection>
+          <BioSection>
+            <BioYear>2024 to present</BioYear>
+            Works at Enacom as a DevOps Engineer
           </BioSection>
         </Section>
 
